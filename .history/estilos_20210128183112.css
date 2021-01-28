@@ -104,9 +104,3 @@ main {
     padding-bottom: 30px;
     text-align: center;
 }
-.main-exchange-container--title {
-    width: 90%;
-    min-width: 288px;
-    max-width: 900px;
-    margin: 0 auto;
-}
