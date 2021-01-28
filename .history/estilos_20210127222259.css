@@ -42,13 +42,3 @@ header img {
     margin-top: 6.0rem;
     align-self:center;
 }
-.header--title-container {
-    width: 90%;
-    min-width: 28.8rem;
-    max-width: 90rem;
-    height: 21.8rem;
-    margin-top: 4rem;
-    text-align: center;
-    align-self:center;
-
-}

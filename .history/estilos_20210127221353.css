@@ -36,19 +36,3 @@ header {
     height: 33.4rem;
     text-align: center;
 }
-header img {
-    width: 15rem;
-    height: 2.4rem;
-    margin-top: 6.0rem;
-    align-self:center;
-}
-.header--title-container {
-    width: 90%;
-    min-width: 28.8rem;
-    max-width: 90rem;
-    height: 21.8rem;
-    margin-top: 4rem;
-    text-align: center;
-    align-self:center;
-
-}
