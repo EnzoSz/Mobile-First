@@ -314,12 +314,3 @@ main {
     line-height: 1.8rem;
     color: #808080;
 }
-.eye {
-    background-image: url('./assets/icons/eye.svg');
-}
-.dollar {
-    background-image: url('./assets/icons/dollar-sign.svg');
-}
-.check {
-    background-image: url('./assets/icons/check-circle.svg');
-}
