@@ -212,12 +212,6 @@ main {
     margin-top: 15px;
     padding: 8px;
     background-color: var(--soft-orange);
-    border-radius: 8px;
-}
-.currency-table-date p {
-    font-size: 1.2rem;
-    line-height: 1.5rem;
-    color: var(--warm-black);
 }
 .main-commissions-table .commissions-table--title {
     margin-bottom: 15px;
@@ -225,18 +219,4 @@ main {
     font-weight: bold;
     line-height: 2.3rem;
     color: var(--secondary-blue);
-}
-.commissions-table-date {
-    width: 190px;
-    height: 30px;
-    margin: 0 auto;
-    margin-top: 15px;
-    padding: 8px;
-    background-color: var(--soft-blue);
-    border-radius: 8px;
-}
-.commissions-table-date p {
-    font-size: 1.2rem;
-    line-height: 1.5rem;
-    color: var(--warm-black);
 }
