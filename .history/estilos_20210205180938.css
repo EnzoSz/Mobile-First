@@ -465,7 +465,7 @@ footer section {
     justify-content: center;
     align-items: center;
 }
-footer .left ul {
+footer .left {
     font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
@@ -476,5 +476,4 @@ footer .left ul {
 }
 .left a {
     text-decoration: none;
-    color: var(--just-white);
 }
