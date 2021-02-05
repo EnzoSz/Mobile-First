@@ -136,7 +136,7 @@ main {
 }
 .main-tables-container {
     display: flex;
-    height: 400px;
+    height: 360px;
     overflow-x: scroll;
     overscroll-behavior: contain;
     scroll-snap-type: x proximity;
@@ -147,7 +147,7 @@ main {
     min-width: 235px;
     max-width: 500px;
     height: 360px;
-    margin: 0 30px;
+    margin: 0 20px;
     font-family: "Inter", sans-serif;
 }
 .main-currency-table .currency-table--title {

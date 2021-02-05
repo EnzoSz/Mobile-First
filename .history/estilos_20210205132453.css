@@ -136,7 +136,7 @@ main {
 }
 .main-tables-container {
     display: flex;
-    height: 400px;
+    height: 360px;
     overflow-x: scroll;
     overscroll-behavior: contain;
     scroll-snap-type: x proximity;

@@ -136,18 +136,17 @@ main {
 }
 .main-tables-container {
     display: flex;
-    height: 400px;
+    height: 316px;
     overflow-x: scroll;
     overscroll-behavior: contain;
     scroll-snap-type: x proximity;
 }
 .main-currency-table, .main-commissions-table {
     width: 70%;
-    scroll-snap-align: center;
     min-width: 235px;
     max-width: 500px;
     height: 360px;
-    margin: 0 30px;
+    margin: 0 auto;
     font-family: "Inter", sans-serif;
 }
 .main-currency-table .currency-table--title {
